@@ -16,6 +16,13 @@ calling, agent loop, and how to integrate multiple tools into an AI assistant.
 
 # Passing the first stage
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/%40codecrafters%2Fclaude-code?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/%40codecrafters%2Fclaude-code?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/%40codecrafters%2Fclaude-code?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/@codecrafters/claude-code)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 The entry point for your `claude-code` implementation is in `app/main.js`. Study
 and uncomment the relevant code, and submit to pass the first stage:
 
